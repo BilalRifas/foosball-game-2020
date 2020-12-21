@@ -8,7 +8,7 @@ Bilal Rifas
 MIT License
 
 # Home Screen
-![alt text](https://github.com/BilalRifas/foosball-game-2020/blob/main/foot.png?raw=true)
+![Home-Screen](https://github.com/BilalRifas/foosball-game-2020/blob/main/foot.PNG?raw=true)
 
 # Gameplay Screen
-![alt text](https://github.com/BilalRifas/foosball-game-2020/blob/main/foot2.png?raw=true)
+![Gameplay-Screen](https://github.com/BilalRifas/foosball-game-2020/blob/main/foot2.PNG?raw=true)
